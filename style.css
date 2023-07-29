@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+div {
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(#ed6767,#efa);
+}
+div ul{
+    list-style-type: none;
+    float: right;
+    
+    
+}
+div ul li {
+    
+    display: inline-block;
+    
+}
+div ul li a {
+    text-decoration: none;
+    padding: 20px;
+    
+    color: white;
+    
+    align-items: center;
+}
+div img{
+    height: 50px;
+    width: 300px;
+}
+
+div ul li:hover{
+    background-image: linear-gradient(#89e741,#f102b9,#f70909,#0639f3);
+}
+p{
+    color: white;
+}
+img{
+    height: 517px;
+    width: 1280px;
+} 
